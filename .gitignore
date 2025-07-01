@@ -1,0 +1,17 @@
+node_modules
+node_modules
+build/static/js/main.e42bbd4d.js.LICENSE.txt
+build/static/js/main.e42bbd4d.js.map
+build/static/js/main.e42bbd4d.js
+build/static/css/main.1d38bf31.css.map
+build/static/css/main.1d38bf31.css
+build/lambo.glb
+build/index.html
+build/F-6800-STD.cube
+build/asset-manifest.json
+.idea/vcs.xml
+.idea/modules.xml
+.idea/LamboThreeJS.iml
+yarn.lock
+.idea/.gitignore
+.DS_Store

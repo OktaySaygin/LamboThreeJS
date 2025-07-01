@@ -27,9 +27,7 @@ export function Lamborghini(props) {
       if (name.toLowerCase().includes('wheel') ||
           name.toLowerCase().includes('tire')) {
         console.log('Tekerlek node:', name)
-        if (
-            name.toLowerCase().includes('fl') ||
-            name.toLowerCase().includes('fr')) {
+        if (name.toLowerCase().includes('fr')) {
           frontWheelsRefs.current.push(nodes[name])
         }
       }
